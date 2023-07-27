@@ -9,6 +9,7 @@
 - 🚨 Currently working on some freelance projects.
 - 🧙‍♂️ FullStack Developer since 2019.
 - 🧑‍🎓Graduated in Software Engineering at Unicesumar University.
+- 🇧🇷 Brazilian
 
 **Contact me**
 
