@@ -22,3 +22,9 @@
 
 | <p align="center"><img align="center" alt="cilico GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielcilico&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true"/></p> | <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcilico&layout=compact&theme=transparent&hide_border=true" /></p> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+#### Top Repositories
+
+<a href="https://github.com/gabrielcilico/discord-bot-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielcilico&repo=discord-bot-template&theme=transparent&hide_border=true" />
+</a>
