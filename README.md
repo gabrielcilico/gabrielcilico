@@ -5,7 +5,7 @@
 
 **About me**
 
-- 👨‍💻 Mid Software Engineer at [Favo](https://www.mercadofavo.com/).
+- 👨‍💻 Software Engineer.
 - 🚨 Currently working on some freelance projects.
 - 🧙‍♂️ FullStack Developer since 2019.
 - 🧑‍🎓Graduated in Software Engineering at Unicesumar University.
